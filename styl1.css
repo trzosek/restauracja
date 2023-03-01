@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #F6E5DC;
+    font-family: Tahoma;
+}
+h1{
+    margin: 0;
+}
+header{
+    background-color: #2F180C;
+    text-align: center;
+    color: white;
+    height: 60px;
+}
+#lewy{
+    width: 60%;
+    float: left;
+}
+#prawy{
+    font-size: 200%;
+    padding: 50px;
+}
+#dolny{
+    clear: both;
+    background-color: #D0B6A8;
+    text-align: center;
+    padding: 30px;
+
+}
+footer{
+    background-color: #2F180C;
+    color: white;
+    height: 60px;
+}
+img{
+    height: 400px;
+}
+li{
+    list-style: circle;
+}
+span {
+    font-style: italic;
+}
